@@ -29,7 +29,7 @@ Below is a curated list of awesome digital tools for activism. These are tools f
  * [Countdown](https://github.com/drewrwilson/countdown) - A quick & simple tool for making your own webpage with a countdown to your upcoming event.
  * [CiviCRM](https://civicrm.org/) - Contact management system for non-profit / activist sector, including donations, memberships, events, SMS, bulk mail & full CRM.
  * [Spoke](https://github.com/Elizabeth-Warren/Spoke) - Text-distribution tool for organizations to mobilize supporters and members into action. Spoke allows you to upload phone numbers, customize scripts and assign volunteers to communicate with supporters while allowing organizations to manage the process.
- * [E2H Etherpads]((https://e2h.totalism.org/e2h.php?_=E2H)) - Etherpad is an open source, Google Docs-like rich text editor. E2H allows you to turn Etherpad documents into websites. A hosted version is available at [pad.land](https://pad.land)
+ * [E2H Etherpads](https://e2h.totalism.org/e2h.php?_=E2H) - Etherpad is an open source, Google Docs-like rich text editor. E2H allows you to turn Etherpad documents into websites. A hosted version is available at [pad.land](https://pad.land)
  * [Outline](https://getoutline.org/en-GB/) - Create your own VPN, for free.
 
 ## Software as a service:
